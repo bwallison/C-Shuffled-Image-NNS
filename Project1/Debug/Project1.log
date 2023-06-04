@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Matrix.cpp
+  Main.cpp
+  BinaryImage.cpp
+  Generating Code...
+  Project1.vcxproj -> G:\Computer Science\Assignment - Year 2 - Semester A\CMP2090M - Object Oriented Programming\CMP2090M Assessment Item 1\CMP2090M Assessment 1 - 14468387\CMP2090M Assessment 1 - 14468387\Debug\CMP2090M.exe
